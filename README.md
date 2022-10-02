@@ -19,7 +19,7 @@ We have used GNN Explainer on the network trained above by wrapping the model wi
 In theory, we should be able to infer the category of a document solely based on its content, i.e. its bag-of-words feature representation, without taking any relational information into account.
 We verified that by constructing a simple MLP that solely operates on input node features (using shared weights across all nodes).Then we have comapared the accuracy of MLP with GNN.
 
-## Input Data and its Visualization
+## Input Data
 Cora network holds 2,708 nodes and 10,556 edges, resulting in an average node degree of 3.9. For training this dataset, we are given the ground-truth categories of 140 nodes (20 for each class). 
 
 
