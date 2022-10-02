@@ -40,7 +40,7 @@ Cora network holds 2,708 nodes and 10,556 edges, resulting in an average node de
 </p>
 
 
-## GNN Expainer
+## GNN Explainer
 
 GNN expaliner for NODE = 0
 
